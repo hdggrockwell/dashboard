@@ -1,3 +1,4 @@
+pip install streamlit
 import streamlit as st
 import yfinance as yf
 import plotly.graph_objs as go # For the candlestick plot
